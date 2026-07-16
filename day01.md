@@ -26,9 +26,10 @@ PostgreSQL ដើរតួដូចជាទូឯកសារដ៏ធំមួ
 
 Customers
 -----------------
-ID | Name
-1  | Alice
-2  | Bob
+| ID | Name |
+| :--- | :--- |
+| 1 | Alice |
+| 2 | Bob |
 
 នៅពេល Application របស់អ្នកស្នើសុំ៖
 
